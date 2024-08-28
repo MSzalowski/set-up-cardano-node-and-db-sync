@@ -1,0 +1,1 @@
+./cardano-node run --topology topology.json --config config.json --database-path db/ --socket-path node.socket
